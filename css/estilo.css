@@ -1,0 +1,45 @@
+/*
+Site: montolinprojetos.com
+Desenvolvido por: luiz Montolin
+Data: 13/12/2017
+Versão: 1.0
+*/
+.html{
+	margin: 0 0	0 0;
+	border: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.menu-nav{
+	background: #444;
+	height: 60px;
+	border-bottom: 1px solid #ff0000;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #c1c1c1;
+}
+.slide-show{
+	background: #888;
+
+}
+.container-fluid{
+    padding-right: 0px; 
+    padding-left: 0px; 	
+}
+.jumbotron {
+     margin-bottom: 0px; 
+
+}
+.my_at{
+	background: #444;
+}
+.prototipagem{
+	background: #fff;
+	color: #000;
+}
+.rodape{
+	background: #AAA;
+	color: #000;
+	padding-top: 20px;
+	padding-bottom:  20px;
+	border-top: 1px solid #ff0000;
+}
